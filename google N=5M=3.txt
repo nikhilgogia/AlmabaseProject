@@ -1,0 +1,64 @@
+Organisation name: google, N = 5, M = 3
+
+Repository name: it-cert-automation-practice
+No. of forks: 11569
+Top committees for the repository are as follows:- 
+
+Contributor name: marga-google
+No. of commits made by the Contributor: 3
+
+Contributor name: margamanterola
+No. of commits made by the Contributor: 1
+
+Repository name: styleguide
+No. of forks: 9707
+Top committees for the repository are as follows:- 
+
+Contributor name: IsaacG
+No. of commits made by the Contributor: 30
+
+Contributor name: eglaysher
+No. of commits made by the Contributor: 25
+
+Contributor name: gpshead
+No. of commits made by the Contributor: 19
+
+Repository name: guava
+No. of forks: 8805
+Top committees for the repository are as follows:- 
+
+Contributor name: cpovirk
+No. of commits made by the Contributor: 1420
+
+Contributor name: kluever
+No. of commits made by the Contributor: 563
+
+Contributor name: cgdecker
+No. of commits made by the Contributor: 494
+
+Repository name: material-design-icons
+No. of forks: 8479
+Top committees for the repository are as follows:- 
+
+Contributor name: jestelle
+No. of commits made by the Contributor: 38
+
+Contributor name: rsheeter
+No. of commits made by the Contributor: 21
+
+Contributor name: addyosmani
+No. of commits made by the Contributor: 13
+
+Repository name: googletest
+No. of forks: 6760
+Top committees for the repository are as follows:- 
+
+Contributor name: gennadiycivil
+No. of commits made by the Contributor: 1279
+
+Contributor name: BillyDonahue
+No. of commits made by the Contributor: 111
+
+Contributor name: kuzkry
+No. of commits made by the Contributor: 76
+

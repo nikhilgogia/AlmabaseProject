@@ -1,0 +1,550 @@
+Organisation name: microsoft, N = 20, M = 8
+
+Repository name: vscode
+No. of forks: 16925
+Top committees for the repository are as follows:- 
+
+Contributor name: bpasero
+No. of commits made by the Contributor: 8970
+
+Contributor name: joaomoreno
+No. of commits made by the Contributor: 7474
+
+Contributor name: jrieken
+No. of commits made by the Contributor: 7296
+
+Contributor name: mjbvz
+No. of commits made by the Contributor: 5429
+
+Contributor name: isidorn
+No. of commits made by the Contributor: 5309
+
+Contributor name: alexdima
+No. of commits made by the Contributor: 5164
+
+Contributor name: sandy081
+No. of commits made by the Contributor: 5088
+
+Contributor name: Tyriar
+No. of commits made by the Contributor: 3881
+
+Repository name: TypeScript
+No. of forks: 8760
+Top committees for the repository are as follows:- 
+
+Contributor name: ahejlsberg
+No. of commits made by the Contributor: 3629
+
+Contributor name: sheetalkamat
+No. of commits made by the Contributor: 2551
+
+Contributor name: mhegazy
+No. of commits made by the Contributor: 2308
+
+Contributor name: DanielRosenwasser
+No. of commits made by the Contributor: 2240
+
+Contributor name: sandersn
+No. of commits made by the Contributor: 2131
+
+Contributor name: andy-ms
+No. of commits made by the Contributor: 2067
+
+Contributor name: rbuckton
+No. of commits made by the Contributor: 1666
+
+Contributor name: vladima
+No. of commits made by the Contributor: 1533
+
+Repository name: Windows-universal-samples
+No. of forks: 7534
+Top committees for the repository are as follows:- 
+
+Contributor name: oldnewthing
+No. of commits made by the Contributor: 176
+
+Contributor name: ChrisGuzak
+No. of commits made by the Contributor: 1
+
+Contributor name: ontx
+No. of commits made by the Contributor: 1
+
+Contributor name: supratiksen
+No. of commits made by the Contributor: 1
+
+Contributor name: turolla
+No. of commits made by the Contributor: 1
+
+Repository name: terminal
+No. of forks: 6342
+Top committees for the repository are as follows:- 
+
+Contributor name: DHowett
+No. of commits made by the Contributor: 368
+
+Contributor name: zadjii-msft
+No. of commits made by the Contributor: 279
+
+Contributor name: miniksa
+No. of commits made by the Contributor: 247
+
+Contributor name: carlos-zamora
+No. of commits made by the Contributor: 117
+
+Contributor name: j4james
+No. of commits made by the Contributor: 66
+
+Contributor name: cinnamon-msft
+No. of commits made by the Contributor: 49
+
+Contributor name: leonMSFT
+No. of commits made by the Contributor: 35
+
+Contributor name: skyline75489
+No. of commits made by the Contributor: 30
+
+Repository name: sql-server-samples
+No. of forks: 5563
+Top committees for the repository are as follows:- 
+
+Contributor name: jodebrui
+No. of commits made by the Contributor: 335
+
+Contributor name: JocaPC
+No. of commits made by the Contributor: 305
+
+Contributor name: uc-msft
+No. of commits made by the Contributor: 254
+
+Contributor name: perrysk-msft
+No. of commits made by the Contributor: 136
+
+Contributor name: jovanpop-msft
+No. of commits made by the Contributor: 127
+
+Contributor name: barbkess
+No. of commits made by the Contributor: 115
+
+Contributor name: pmasl
+No. of commits made by the Contributor: 110
+
+Contributor name: amitmsft
+No. of commits made by the Contributor: 93
+
+Repository name: CNTK
+No. of forks: 4416
+Top committees for the repository are as follows:- 
+
+Contributor name: frankseide
+No. of commits made by the Contributor: 2843
+
+Contributor name: wilrich-msft
+No. of commits made by the Contributor: 880
+
+Contributor name: amitaga
+No. of commits made by the Contributor: 738
+
+Contributor name: mahilleb-msft
+No. of commits made by the Contributor: 636
+
+Contributor name: eldakms
+No. of commits made by the Contributor: 581
+
+Contributor name: jeanfad
+No. of commits made by the Contributor: 523
+
+Contributor name: zhouwangzw
+No. of commits made by the Contributor: 453
+
+Contributor name: chivee
+No. of commits made by the Contributor: 418
+
+Repository name: BotBuilder-Samples
+No. of forks: 3907
+Top committees for the repository are as follows:- 
+
+Contributor name: johnataylor
+No. of commits made by the Contributor: 285
+
+Contributor name: sgellock
+No. of commits made by the Contributor: 230
+
+Contributor name: daveta
+No. of commits made by the Contributor: 192
+
+Contributor name: stevengum
+No. of commits made by the Contributor: 177
+
+Contributor name: vishwacsena
+No. of commits made by the Contributor: 129
+
+Contributor name: JasonSowers
+No. of commits made by the Contributor: 122
+
+Contributor name: chrimc62
+No. of commits made by the Contributor: 120
+
+Contributor name: benbrown
+No. of commits made by the Contributor: 112
+
+Repository name: Windows-driver-samples
+No. of forks: 3583
+Top committees for the repository are as follows:- 
+
+Contributor name: barrygolden
+No. of commits made by the Contributor: 81
+
+Contributor name: wm1
+No. of commits made by the Contributor: 78
+
+Contributor name: NeoAdonis
+No. of commits made by the Contributor: 36
+
+Contributor name: girishpattabiraman
+No. of commits made by the Contributor: 19
+
+Contributor name: kfroe
+No. of commits made by the Contributor: 13
+
+Contributor name: radutta99
+No. of commits made by the Contributor: 12
+
+Contributor name: JoelCorley
+No. of commits made by the Contributor: 11
+
+Contributor name: MichelleBergeron
+No. of commits made by the Contributor: 11
+
+Repository name: calculator
+No. of forks: 3570
+Top committees for the repository are as follows:- 
+
+Contributor name: rudyhuyn
+No. of commits made by the Contributor: 111
+
+Contributor name: joseartrivera
+No. of commits made by the Contributor: 89
+
+Contributor name: mcooley
+No. of commits made by the Contributor: 88
+
+Contributor name: sanderl
+No. of commits made by the Contributor: 76
+
+Contributor name: janisozaur
+No. of commits made by the Contributor: 30
+
+Contributor name: EriWong
+No. of commits made by the Contributor: 26
+
+Contributor name: gsfreema
+No. of commits made by the Contributor: 26
+
+Contributor name: HowardWolosky
+No. of commits made by the Contributor: 13
+
+Repository name: LightGBM
+No. of forks: 3095
+Top committees for the repository are as follows:- 
+
+Contributor name: guolinke
+No. of commits made by the Contributor: 811
+
+Contributor name: StrikerRUS
+No. of commits made by the Contributor: 474
+
+Contributor name: jameslamb
+No. of commits made by the Contributor: 179
+
+Contributor name: wxchan
+No. of commits made by the Contributor: 94
+
+Contributor name: Laurae2
+No. of commits made by the Contributor: 80
+
+Contributor name: chivee
+No. of commits made by the Contributor: 59
+
+Contributor name: henry0312
+No. of commits made by the Contributor: 47
+
+Contributor name: imatiach-msft
+No. of commits made by the Contributor: 18
+
+Repository name: Windows-AppConsult-PWALab
+No. of forks: 2992
+Top committees for the repository are as follows:- 
+
+Contributor name: qmatteoq
+No. of commits made by the Contributor: 43
+
+Contributor name: sbovo
+No. of commits made by the Contributor: 39
+
+Contributor name: microsoftopensource
+No. of commits made by the Contributor: 2
+
+Contributor name: mjfusa
+No. of commits made by the Contributor: 2
+
+Contributor name: runceel
+No. of commits made by the Contributor: 2
+
+Contributor name: danielstocker
+No. of commits made by the Contributor: 1
+
+Contributor name: msftgits
+No. of commits made by the Contributor: 1
+
+Repository name: vcpkg
+No. of forks: 2976
+Top committees for the repository are as follows:- 
+
+Contributor name: alexkaratarakis
+No. of commits made by the Contributor: 2479
+
+Contributor name: ras0219-msft
+No. of commits made by the Contributor: 2160
+
+Contributor name: JackBoosY
+No. of commits made by the Contributor: 407
+
+Contributor name: Rastaban
+No. of commits made by the Contributor: 221
+
+Contributor name: Neumann-A
+No. of commits made by the Contributor: 204
+
+Contributor name: NancyLi1013
+No. of commits made by the Contributor: 197
+
+Contributor name: myd7349
+No. of commits made by the Contributor: 196
+
+Contributor name: codicodi
+No. of commits made by the Contributor: 192
+
+Repository name: SmartHotel360-Website
+No. of forks: 2968
+Top committees for the repository are as follows:- 
+
+Contributor name: dasanagu
+No. of commits made by the Contributor: 23
+
+Contributor name: CKGrafico
+No. of commits made by the Contributor: 17
+
+Contributor name: eiximenis
+No. of commits made by the Contributor: 14
+
+Contributor name: bradygaster
+No. of commits made by the Contributor: 10
+
+Contributor name: bradygmsft
+No. of commits made by the Contributor: 6
+
+Contributor name: BethMassi
+No. of commits made by the Contributor: 5
+
+Contributor name: dsrodenas
+No. of commits made by the Contributor: 5
+
+Contributor name: fpelaez
+No. of commits made by the Contributor: 4
+
+Repository name: AirSim
+No. of forks: 2957
+Top committees for the repository are as follows:- 
+
+Contributor name: sytelus
+No. of commits made by the Contributor: 913
+
+Contributor name: lovettchris
+No. of commits made by the Contributor: 391
+
+Contributor name: madratman
+No. of commits made by the Contributor: 182
+
+Contributor name: rajat2004
+No. of commits made by the Contributor: 74
+
+Contributor name: thias15
+No. of commits made by the Contributor: 55
+
+Contributor name: saihv
+No. of commits made by the Contributor: 51
+
+Contributor name: patrickelectric
+No. of commits made by the Contributor: 41
+
+Contributor name: ashkapoor
+No. of commits made by the Contributor: 23
+
+Repository name: vscode-docs
+No. of forks: 2747
+Top committees for the repository are as follows:- 
+
+Contributor name: gregvanl
+No. of commits made by the Contributor: 2033
+
+Contributor name: Chuxel
+No. of commits made by the Contributor: 425
+
+Contributor name: ornellaalt
+No. of commits made by the Contributor: 195
+
+Contributor name: mjbvz
+No. of commits made by the Contributor: 160
+
+Contributor name: octref
+No. of commits made by the Contributor: 151
+
+Contributor name: isidorn
+No. of commits made by the Contributor: 114
+
+Contributor name: weinand
+No. of commits made by the Contributor: 106
+
+Contributor name: ghogen
+No. of commits made by the Contributor: 104
+
+Repository name: MS-DOS
+No. of forks: 2365
+Top committees for the repository are as follows:- 
+
+Contributor name: bitcrazed
+No. of commits made by the Contributor: 42
+
+Contributor name: LiTO773
+No. of commits made by the Contributor: 5
+
+Contributor name: Alex4386
+No. of commits made by the Contributor: 3
+
+Contributor name: him1411
+No. of commits made by the Contributor: 3
+
+Contributor name: pyaillet
+No. of commits made by the Contributor: 3
+
+Contributor name: abnerescocio
+No. of commits made by the Contributor: 2
+
+Contributor name: ggurbet
+No. of commits made by the Contributor: 2
+
+Contributor name: joelalju
+No. of commits made by the Contributor: 2
+
+Repository name: botframework-sdk
+No. of forks: 2282
+Top committees for the repository are as follows:- 
+
+Contributor name: Stevenic
+No. of commits made by the Contributor: 590
+
+Contributor name: willportnoy
+No. of commits made by the Contributor: 379
+
+Contributor name: msft-shahins
+No. of commits made by the Contributor: 374
+
+Contributor name: chrimc62
+No. of commits made by the Contributor: 274
+
+Contributor name: Andrea-Orimoto
+No. of commits made by the Contributor: 145
+
+Contributor name: tomlm
+No. of commits made by the Contributor: 129
+
+Contributor name: nwhitmont
+No. of commits made by the Contributor: 39
+
+Contributor name: carlosscastro
+No. of commits made by the Contributor: 25
+
+Repository name: PowerToys
+No. of forks: 2250
+Top committees for the repository are as follows:- 
+
+Contributor name: bao-qian
+No. of commits made by the Contributor: 680
+
+Contributor name: qianlifeng
+No. of commits made by the Contributor: 507
+
+Contributor name: crutkas
+No. of commits made by the Contributor: 422
+
+Contributor name: jjw24
+No. of commits made by the Contributor: 334
+
+Contributor name: alekhyareddy28
+No. of commits made by the Contributor: 200
+
+Contributor name: arjunbalgovind
+No. of commits made by the Contributor: 162
+
+Contributor name: yuyoyuppe
+No. of commits made by the Contributor: 161
+
+Contributor name: ryanbodrug-microsoft
+No. of commits made by the Contributor: 150
+
+Repository name: WPF-Samples
+No. of forks: 2121
+Top committees for the repository are as follows:- 
+
+Contributor name: vatsan-madhavan
+No. of commits made by the Contributor: 61
+
+Contributor name: MarkDHarper
+No. of commits made by the Contributor: 27
+
+Contributor name: arpitmathur
+No. of commits made by the Contributor: 15
+
+Contributor name: rohit21agrawal
+No. of commits made by the Contributor: 14
+
+Contributor name: vartikav
+No. of commits made by the Contributor: 14
+
+Contributor name: rladuca
+No. of commits made by the Contributor: 12
+
+Contributor name: ryalanms
+No. of commits made by the Contributor: 12
+
+Contributor name: WilliamAntonRohm
+No. of commits made by the Contributor: 9
+
+Repository name: TypeScript-Node-Starter
+No. of forks: 2062
+Top committees for the repository are as follows:- 
+
+Contributor name: bowdenk7
+No. of commits made by the Contributor: 98
+
+Contributor name: orta
+No. of commits made by the Contributor: 39
+
+Contributor name: peterblazejewicz
+No. of commits made by the Contributor: 34
+
+Contributor name: amodolo
+No. of commits made by the Contributor: 7
+
+Contributor name: bmiddha
+No. of commits made by the Contributor: 7
+
+Contributor name: dependabot[bot]
+No. of commits made by the Contributor: 6
+
+Contributor name: alan-agius4
+No. of commits made by the Contributor: 5
+
+Contributor name: dmt
+No. of commits made by the Contributor: 5
+

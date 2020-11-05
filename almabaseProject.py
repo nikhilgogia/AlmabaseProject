@@ -18,7 +18,7 @@ topNRepoDict = {}
 topMCommitteesDict = {}
 pageNum=1
 while(True):     #The result can consist of multiple pages, we loop until we reach the last page of our search
-    request = requests.get(apiPrefix+'users/'+orgName+'/repos'+queryString+str(pageNum))
+    request = requests.get(apiPrefix+'orgs/'+orgName+'/repos'+queryString+str(pageNum))
     json = request.json()
     if(len(json) == 0):        #if there is no repo in json, it means that we have iterated over all the repos
         break
@@ -64,3 +64,15 @@ for repo in topNRepoDict:
         print ("Contributor name:", contributor[0])
         print ("No. of commits made by the Contributor:", contributor[1])
         print ()
+
+#storing of result Data in output file
+writeFile = open(orgName+" N="+str(N)+'M='+str(M)+'.txt','w')
+writeFile.write("Organisation name: " + orgName + ", N = " + str(N) + ", M = " + str(M)+"\n\n")
+for repo in topNRepoDict:
+    writeFile.write("Repository name: " + repo+"\n")
+    writeFile.write("No. of forks: " + str(topNRepoDict[repo])+"\n")
+    writeFile.write("Top committees for the repository are as follows:- \n\n")
+    for contributor in topMCommitteesDict[repo]:
+        writeFile.write("Contributor name: " + contributor[0]+"\n")
+        writeFile.write("No. of commits made by the Contributor: " + str(contributor[1])+"\n\n")
+writeFile.close()
