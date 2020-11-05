@@ -27,7 +27,7 @@ python almabaseProject.py
 * now intract with the program suitably based on the prompts
 
 ### REASON TO GENERATE PAT
-github allows on 60 unauthorised API calls in 1 hour which is very less for this program's purpose. To make authenticated calls we need to genrate Personal access tokens to increase the limit to 5000.
+github allows only 60 unauthorised API calls in 1 hour which is very less for this program's purpose. To make authenticated calls we need to genrate Personal access tokens to increase the limit to 5000.
 
 ### SCREENSHOTS
 ![query output](https://github.com/nikhilgogia/AlmabaseProject/blob/master/Images/queryOutput.png)
